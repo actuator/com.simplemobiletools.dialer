@@ -1,1 +1,0 @@
-# com.simplemobiletools.dialer
